@@ -1,5 +1,5 @@
 
-# Hi I'm YURI 👋
+![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=flase&&color=auto&text=YURI'S%20%20GITHUB&fontColor=666666&descAlignX=20&fontSize=50&descAlign=1)
 <div>
 
   ## ✨ 할 수 있어요!
