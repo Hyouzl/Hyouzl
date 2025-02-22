@@ -1,5 +1,6 @@
 
-![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=flase&&color=auto&text=YURI'S%20%20GITHUB&fontColor=ffff&descAlignX=20&fontSize=50&descAlign=1)
+![_ (16)](https://github.com/user-attachments/assets/8f233ad4-9606-4cff-b77f-15fcdeb21733)
+
 <div align="center">
 
   ## ✨ 할 수 있어요!
